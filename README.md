@@ -20,7 +20,9 @@
   
 ## Languages
   
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
+![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=d21423)
+![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&logoColor=aa13d1)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 <br>
   <br>
   
